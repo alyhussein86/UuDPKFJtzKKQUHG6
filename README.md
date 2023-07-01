@@ -10,3 +10,7 @@ The main goal is to predict how fit the candidate is based on their available in
 So Using machine learning and NLP to acheive the goal of this project.
 
 This code is written using Python3 on Google Colab.
+Applying BERT and Word2Vec embeddings.
+Calculate Cosine Similiraties between their embeddings and the Keywords embeddings.
+Sorting the databased on the Ranking score.
+Then Reranking data with LightGBMRanker Model for training and prediction
